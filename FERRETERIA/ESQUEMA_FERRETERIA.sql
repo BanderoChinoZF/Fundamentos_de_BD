@@ -1,0 +1,1 @@
+﻿create schema Ferreteria authorization postgres;
